@@ -1,5 +1,5 @@
 # Cape
-Arduino code for my fiber optic cape
+Arduino code for my fiber optic cape.
 
 Uploading the code is not complicated but there are many steps involved, like installing the driver that suits your computer's operating system, installing the Arduino development environment, and pressing the onboard reset button at just the right moment.
 
